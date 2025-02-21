@@ -8,7 +8,7 @@ const {
 
 //sebagian panel gk support opena ai jadi mungkin apikey lu bakalan di blokir
 //klo misalkan pada saat memakai fitur ai, terus dapat email dari open si, itu berarti website tempat lu install bot gk support ai
-global.OpenAIKey = "YOUR_KEY" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -54,7 +54,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" //namabot kalian
 global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
